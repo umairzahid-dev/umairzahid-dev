@@ -2,7 +2,7 @@
 
 # Umair Zahid
 
-### Aspiring Data Scientist • Machine learining Enthusiast
+### Data Scientist • Python Developer
 
 <br>
 
