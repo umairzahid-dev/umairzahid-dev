@@ -1,36 +1,73 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;Machine+Learning+%26+AI+Enthusiast;Building+Data-Driven+Solutions;Turning+Data+Into+Intelligence" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Umair Zahid</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Umair%20Zahid&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Applications&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<h3 align="center">
-Building Data-Driven Solutions with Machine Learning & AI
-</h3>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/umair-zahid-b23444252/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Real-World+AI+Applications+%F0%9F%9A%80;Exploring+LLMs+and+AI+Agents+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-  <a href="mailto:uzahid919@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umairzahid-dev)
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🧠 About Me
 
-- Passionate about Data Science, Machine Learning, and Artificial Intelligence
-- Building end-to-end AI applications beyond notebook-based projects
-- Interested in Recommendation Systems, NLP, Deep Learning, and Data Analytics
-- Focused on solving real-world problems through data-driven solutions
-- Continuously exploring modern AI tools and technologies
+```python
+class UmairZahid:
+
+    role = [
+        "Aspiring Data Scientist",
+        "Machine Learning Enthusiast",
+        "AI Application Developer"
+    ]
+
+    interests = [
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Recommendation Systems",
+        "LLMs",
+        "AI Agents"
+    ]
+
+    currently_learning = [
+        "FastAPI",
+        "Streamlit",
+        "Deep Learning",
+        "LLMs",
+        "Agentic AI Workflows"
+    ]
+
+    goal = "Build production-ready AI applications that solve real-world problems."
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 What I'm Building
+
+### 🎬 CineMatch AI
+Netflix-style movie recommendation platform using content-based filtering, similarity algorithms, and modern deployment practices.
+
+### 📄 SmartHire AI
+Resume screening and job matching system using NLP techniques and semantic similarity.
+
+### 📊 MarketMind AI
+Business intelligence dashboard for automated insights, KPI tracking, forecasting, and reporting.
+
+### 🤖 DataPilot AI
+Automated machine learning platform featuring EDA, model selection, explainability, and reporting.
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
 
 ### Programming
 
@@ -45,30 +82,26 @@ Building Data-Driven Solutions with Machine Learning & AI
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
+### AI & ML
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-1E90FF?style=for-the-badge)
+
 ### Development
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 📌 Featured Projects
-
-### 🎬 CineMatch AI
-Movie recommendation platform using content-based filtering and similarity algorithms.
-
-### 📊 MarketMind AI
-Business analytics dashboard for automated insights, KPI tracking, and data visualization.
-
-### 📄 SmartHire AI
-Resume screening and job matching system using NLP techniques.
+</div>
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 - Machine Learning & Deep Learning
 - Natural Language Processing (NLP)
@@ -80,23 +113,28 @@ Resume screening and job matching system using NLP techniques.
 
 ---
 
-## 🎯 2026 Goals
+# 🎓 Certification
 
-- Build production-ready AI projects
-- Strengthen Machine Learning and Deep Learning expertise
-- Learn MLOps fundamentals
-- Contribute to open-source projects
-- Secure a Data Science Internship
+### Applied Data Science & Machine Learning Certification
+**Techma Zone**
 
----
-
-## 🤝 Connect With Me
-
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
+- Data Science Fundamentals
+- Machine Learning Fundamentals
+- Data Analysis & Visualization
 
 ---
 
-<p align="center">
-  <b>Transforming Data into Meaningful Intelligence.</b>
-</p>
+# 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/umair-zahid-b23444252/
+- Email: uzahid919@gmail.com
+
+---
+
+<div align="center">
+
+## Data. Intelligence. Innovation.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
