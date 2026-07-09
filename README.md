@@ -2,7 +2,7 @@
 
 # Umair Zahid
 
-### Machine Learning • Deep Learning • LLMs • AI Agents
+### Aspiring Data Scientist • Machine learining Enthusiast
 
 <br>
 
