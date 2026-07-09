@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Umair%20Zahid&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Applications&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Umair%20Zahid&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%7C%20LLMs%20%7C%20AI%20Agents&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Real-World+AI+Applications+%F0%9F%9A%80;Exploring+LLMs+and+AI+Agents+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Machine+Learning;Building+Intelligent+Systems;Exploring+LLMs+%26+Agentic+Workflows;Engineering+Real-World+AI+Products)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,30 +21,29 @@
 ```python
 class UmairZahid:
 
-    role = [
-        "Aspiring Data Scientist",
-        "Machine Learning Enthusiast",
-        "AI Application Developer"
-    ]
-
-    interests = [
+    focus = [
         "Machine Learning",
         "Deep Learning",
-        "Natural Language Processing",
-        "Recommendation Systems",
-        "LLMs",
+        "Large Language Models",
         "AI Agents"
     ]
 
-    currently_learning = [
-        "FastAPI",
-        "Streamlit",
-        "Deep Learning",
-        "LLMs",
-        "Agentic AI Workflows"
+    building = [
+        "Recommendation Systems",
+        "AI Assistants",
+        "Agentic Workflows",
+        "End-to-End AI Products"
     ]
 
-    goal = "Build production-ready AI applications that solve real-world problems."
+    tools = [
+        "Python",
+        "Scikit-Learn",
+        "TensorFlow",
+        "FastAPI",
+        "Streamlit"
+    ]
+
+    mission = "Build intelligent systems that create real-world impact."
 ```
 
 ---
@@ -52,13 +51,13 @@ class UmairZahid:
 # 🚀 What I'm Building
 
 ### 🎬 CineMatch AI
-Netflix-style movie recommendation platform using content-based filtering, similarity algorithms, and modern deployment practices.
+Netflix-style recommendation platform using content-based filtering, similarity algorithms, and modern deployment practices.
 
 ### 📄 SmartHire AI
-Resume screening and job matching system using NLP techniques and semantic similarity.
+Resume screening and job matching system powered by NLP and semantic similarity.
 
 ### 📊 MarketMind AI
-Business intelligence dashboard for automated insights, KPI tracking, forecasting, and reporting.
+Business intelligence dashboard for analytics, forecasting, KPI tracking, and automated insights.
 
 ### 🤖 DataPilot AI
 Automated machine learning platform featuring EDA, model selection, explainability, and reporting.
@@ -69,20 +68,19 @@ Automated machine learning platform featuring EDA, model selection, explainabili
 
 <div align="center">
 
-### Programming
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Data Science
+### Data Science & ML
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
-### AI & ML
+### AI
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge)
@@ -104,9 +102,9 @@ Automated machine learning platform featuring EDA, model selection, explainabili
 # 🎯 Current Focus
 
 - Machine Learning & Deep Learning
-- Natural Language Processing (NLP)
 - Large Language Models (LLMs)
 - AI Agents & Agentic Workflows
+- Natural Language Processing (NLP)
 - Recommendation Systems
 - End-to-End AI Applications
 - API Development & Deployment
@@ -115,8 +113,7 @@ Automated machine learning platform featuring EDA, model selection, explainabili
 
 # 🎓 Certification
 
-### Applied Data Science & Machine Learning Certification
-**Techma Zone**
+### Applied Data Science & Machine Learning Certification — Techma Zone
 
 - Data Science Fundamentals
 - Machine Learning Fundamentals
@@ -133,7 +130,7 @@ Automated machine learning platform featuring EDA, model selection, explainabili
 
 <div align="center">
 
-## Data. Intelligence. Innovation.
+### Models. Agents. Intelligence.
 
 </div>
 
