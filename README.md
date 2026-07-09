@@ -1,15 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=850&lines=Data+Science+Student;Machine+Learning+Enthusiast;Building+Real-World+ML+%26+AI+Applications;Turning+Ideas+Into+Projects" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umairzahid-dev&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;Machine+Learning+%26+AI+Enthusiast;Building+Data-Driven+Solutions;Turning+Data+Into+Intelligence" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Umair Zahid</h1>
 
 <h3 align="center">
-Data Science Student • Building Real-World ML & AI Applications
+Building Data-Driven Solutions with Machine Learning & AI
 </h3>
 
 <p align="center">
@@ -26,11 +22,11 @@ Data Science Student • Building Real-World ML & AI Applications
 
 ## 🚀 About Me
 
-- 🎓 BS Computer Science Student
-- 📊 Passionate about Data Science, Machine Learning, and Artificial Intelligence
-- 🌱 Currently learning Deep Learning, NLP, FastAPI, and MLOps
-- 💡 Building end-to-end AI applications beyond notebook-based projects
-- 🚀 Focused on solving real-world problems using data
+- Passionate about Data Science, Machine Learning, and Artificial Intelligence
+- Building end-to-end AI applications beyond notebook-based projects
+- Interested in Recommendation Systems, NLP, Deep Learning, and Data Analytics
+- Focused on solving real-world problems through data-driven solutions
+- Continuously exploring modern AI tools and technologies
 
 ---
 
@@ -85,7 +81,7 @@ Resume screening and job matching system using NLP techniques.
 ## 🎯 2026 Goals
 
 - Build production-ready AI projects
-- Strengthen Machine Learning and Deep Learning skills
+- Strengthen Machine Learning and Deep Learning expertise
 - Learn MLOps fundamentals
 - Contribute to open-source projects
 - Secure a Data Science Internship
@@ -100,5 +96,5 @@ Resume screening and job matching system using NLP techniques.
 ---
 
 <p align="center">
-  <b>⚡ Learning. Building. Improving. Repeating.</b>
+  <b>Data. Models. Insights. Impact.</b>
 </p>
