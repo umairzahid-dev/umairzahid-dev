@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=850&lines=Data+Science+Student;Machine+Learning+Enthusiast;Building+Real-World+ML+%26+AI+Applications;Turning+Ideas+Into+Projects" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Umair Zahid</h1>
 
 <h3 align="center">
-Data Science Student • Machine Learning Enthusiast • Building AI-Powered Applications
+Data Science Student • Building Real-World ML & AI Applications
 </h3>
 
 <p align="center">
@@ -36,28 +36,23 @@ Data Science Student • Machine Learning Enthusiast • Building AI-Powered App
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Data Analysis & Visualization
+### Data Science
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
-
-### Machine Learning & Deep Learning
-
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
 
-### Development & Deployment
+### Development
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -77,40 +72,23 @@ Resume screening and job matching system using NLP techniques.
 
 ---
 
-## 📈 GitHub Statistics
+## 🎯 Current Focus
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=umairzahid-dev&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairzahid-dev&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=umairzahid-dev" />
-</p>
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Recommendation Systems
+- End-to-End AI Applications
 
 ---
 
 ## 🎯 2026 Goals
 
-- Build production-ready AI and Data Science projects
+- Build production-ready AI projects
 - Strengthen Machine Learning and Deep Learning skills
 - Learn MLOps fundamentals
-- Explore NLP and Recommendation Systems
+- Contribute to open-source projects
 - Secure a Data Science Internship
-
----
-
-## 🌱 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- FastAPI
-- Streamlit
-- MLOps Fundamentals
 
 ---
 
@@ -122,5 +100,5 @@ Resume screening and job matching system using NLP techniques.
 ---
 
 <p align="center">
-  <i>Transforming data into insights and ideas into solutions.</i>
+  <b>⚡ Learning. Building. Improving. Repeating.</b>
 </p>
