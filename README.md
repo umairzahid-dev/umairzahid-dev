@@ -1,120 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Umair%20Zahid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20•%20Deep%20Learning%20•%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# Umair Zahid
 
-<br/>
+### Machine Learning • Deep Learning • LLMs • AI Agents
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Machine+Learning;Deep+Learning+%26+NLP;Exploring+LLMs+%26+AI+Agents;Building+Real-World+AI+Products)](https://git.io/typing-svg)
+<br>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Machine+Learning;Deep+Learning+%26+NLP;Exploring+LLMs+%26+Agentic+AI;Building+Real-World+AI+Products)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umairzahid-dev)
+<br>
+
+<a href="https://www.linkedin.com/in/umair-zahid-b23444252/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/umairzahid-dev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:uzahid919@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-```python
-class UmairZahid:
+I am passionate about **Machine Learning, Deep Learning, and Artificial Intelligence**, with a growing interest in **Large Language Models (LLMs)** and **AI Agents**.
 
-    education = "BS Computer Science"
-
-    interests = [
-        "Machine Learning",
-        "Deep Learning",
-        "Natural Language Processing",
-        "Large Language Models",
-        "AI Agents"
-    ]
-
-    building = [
-        "Recommendation Systems",
-        "AI Assistants",
-        "Computer Vision Applications",
-        "End-to-End ML Products"
-    ]
-
-    tools = [
-        "Python",
-        "Scikit-Learn",
-        "TensorFlow",
-        "FastAPI",
-        "Streamlit"
-    ]
-
-    mission = "Turning Data into Intelligent Solutions."
-```
+My focus is on building practical AI products that combine machine learning, modern APIs, and intelligent automation to solve real-world problems.
 
 ---
 
-## 🚀 Featured Projects
+## Currently Working On
+
+- Machine Learning Projects
+- Deep Learning & Computer Vision
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- AI Agents & Agentic Workflows
+- FastAPI Development
+- Streamlit Applications
+
+---
+
+## Featured Projects
 
 ### 🎬 CineMatch AI
 Netflix-style movie recommendation system using content-based filtering and similarity-based recommendations.
 
-### 📄 SmartHire AI
-NLP-powered resume screening and job matching platform.
-
-### 🌱 Plant Disease Detection AI
-Deep learning-based image classification system for plant disease detection using CNNs and transfer learning.
+**Tech:** Python • Pandas • Scikit-Learn • FastAPI • Streamlit
 
 ---
 
-## 🛠️ Tech Stack
+### 📄 SmartHire AI
+Resume screening and job matching platform powered by NLP and semantic similarity.
 
-<div align="center">
+**Tech:** Python • NLP • Scikit-Learn • FastAPI • Streamlit
+
+---
+
+### 🌱 Plant Disease Detection AI
+Deep learning-based image classification system for plant disease detection using transfer learning.
+
+**Tech:** TensorFlow • Keras • CNN • Streamlit
+
+---
+
+## Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Data Science & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
 
-### Deep Learning & AI
+### AI
 
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-1E90FF?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-4B0082?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-1E90FF?style=flat-square)
 
 ### Development
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Machine Learning
 - Deep Learning
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- AI Agents & Agentic Workflows
+- NLP
+- LLMs
+- AI Agents
 - Recommendation Systems
 - End-to-End AI Applications
-- API Development with FastAPI
 
 ---
 
-## 🎓 Certification
+## Certification
 
 ### Applied Data Science & Machine Learning Certification
 
@@ -126,17 +124,8 @@ Deep learning-based image classification system for plant disease detection usin
 
 ---
 
-## 🤝 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/umair-zahid-b23444252/
-- Email: uzahid919@gmail.com
-
----
-
 <div align="center">
 
-## From Data to Intelligent Solutions.
+### Ideas → Models → Products
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
