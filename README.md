@@ -98,5 +98,5 @@ Resume screening and job matching system using NLP techniques.
 ---
 
 <p align="center">
-  <b>Data. Models. Insights. Impact.</b>
+  <b>Transforming Data into Meaningful Intelligence.</b>
 </p>
