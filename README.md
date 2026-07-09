@@ -70,11 +70,13 @@ Resume screening and job matching system using NLP techniques.
 
 ## 🎯 Current Focus
 
-- Machine Learning
-- Deep Learning
+- Machine Learning & Deep Learning
 - Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- AI Agents & Agentic Workflows
 - Recommendation Systems
 - End-to-End AI Applications
+- API Development & Deployment
 
 ---
 
