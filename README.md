@@ -69,10 +69,14 @@ Deep learning-based image classification system for plant disease detection usin
 
 ## Tech Stack
 
+<div align="center">
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<br><br>
 
 ### Data Science & Machine Learning
 
@@ -82,12 +86,16 @@ Deep learning-based image classification system for plant disease detection usin
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
 
+<br><br>
+
 ### AI
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-4B0082?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-1E90FF?style=flat-square)
+
+<br><br>
 
 ### Development
 
@@ -96,6 +104,7 @@ Deep learning-based image classification system for plant disease detection usin
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
+</div>
 ---
 
 ## Current Focus
