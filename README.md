@@ -28,22 +28,20 @@
 
 ## About Me
 
-I am passionate about **Machine Learning, Deep Learning, and Artificial Intelligence**, with a growing interest in **Large Language Models (LLMs)** and **AI Agents**.
+Machine Learning enthusiast focused on building intelligent systems powered by data, automation, and modern AI technologies.
 
-My focus is on building practical AI products that combine machine learning, modern APIs, and intelligent automation to solve real-world problems.
+Currently exploring LLMs, AI Agents, and scalable AI applications.
 
 ---
 
 ## Currently Working On
 
-- Machine Learning Projects
-- Deep Learning & Computer Vision
+- Data Analysis & Visualization
+- Machine Learning Models
+- Deep Learning Fundamentals
 - Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- AI Agents & Agentic Workflows
-- FastAPI Development
-- Streamlit Applications
-
+- Recommendation Systems
+- Building AI Projects with Streamlit & FastAPI
 ---
 
 ## Featured Projects
@@ -102,13 +100,12 @@ Deep learning-based image classification system for plant disease detection usin
 
 ## Current Focus
 
-- Machine Learning
-- Deep Learning
-- NLP
-- LLMs
-- AI Agents
-- Recommendation Systems
+- Large Language Models (LLMs)
+- AI Agents & Agentic Workflows
+- Natural Language Processing (NLP)
 - End-to-End AI Applications
+- Intelligent System Design
+- AI Product Development
 
 ---
 
