@@ -101,7 +101,6 @@ Deep learning-based image classification system for plant disease detection usin
 
 - Large Language Models (LLMs)
 - AI Agents & Agentic Workflows
-- Natural Language Processing (NLP)
 - End-to-End AI Applications
 - Intelligent System Design
 - AI Product Development
