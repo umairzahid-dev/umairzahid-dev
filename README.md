@@ -6,7 +6,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Machine+Learning;Deep+Learning;Exploring+LLMs+%26+Agentic+AI;Building+Real-World+AI+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Data+Sciecnce;Machine+Learning;Deep+Learning;Exploring+LLMs+%26+Agentic+AI;Building+Real-World+AI+Products)](https://git.io/typing-svg)
 
 <br>
 
