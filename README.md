@@ -30,8 +30,6 @@
 
 Machine Learning enthusiast focused on building intelligent systems powered by data, automation, and modern AI technologies.
 
-Currently exploring LLMs, AI Agents, and scalable AI applications.
-
 ---
 
 ## Currently Working On
