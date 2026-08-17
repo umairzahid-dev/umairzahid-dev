@@ -23,7 +23,11 @@
 
 ## About Me
 
-Machine Learning enthusiast focused on building intelligent systems powered by data, automation, and modern AI technologies.
+Meet Me – Driven by a passion for Data Science and Artificial Intelligence, I enjoy working with data to uncover insights, solve problems, and develop intelligent applications. My experience spans Exploratory Data Analysis, SQL, Machine Learning, and NLP, with a focus on practical implementation and continuous growth.
+
+I am always eager to explore emerging technologies, experiment with new approaches, and expand my understanding of the AI ecosystem. Building projects and tackling real-world challenges allows me to strengthen both my technical and problem-solving skills.
+
+To me, data is more than information—it is the foundation for innovation, informed decision-making, and impactful solutions that address real-world needs.
 
 ---
 
@@ -35,29 +39,6 @@ Machine Learning enthusiast focused on building intelligent systems powered by d
 - Natural Language Processing (NLP)
 - Recommendation Systems
 - Building AI Projects with Streamlit & FastAPI
----
-
-## Featured Projects
-
-### 🎬 CineMatch AI
-Netflix-style movie recommendation system using content-based filtering and similarity-based recommendations.
-
-**Tech:** Python • Pandas • Scikit-Learn • FastAPI • Streamlit
-
----
-
-### 📄 SmartHire AI
-Resume screening and job matching platform powered by NLP and semantic similarity.
-
-**Tech:** Python • NLP • Scikit-Learn • FastAPI • Streamlit
-
----
-
-### 🌱 Plant Disease Detection AI
-Deep learning-based image classification system for plant disease detection using transfer learning.
-
-**Tech:** TensorFlow • Keras • CNN • Streamlit
-
 ---
 
 ## Tech Stack
