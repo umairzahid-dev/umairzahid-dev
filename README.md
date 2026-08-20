@@ -75,7 +75,10 @@ To me, data is more than information—it is the foundation for innovation, info
 ## Current Focus
 
 - Large Language Models (LLMs)
-- AI Agents & Agentic Workflows
+- Transformers
+- LangChain
+- RAGs
+- Gen AI
 - End-to-End AI Applications
 - Intelligent System Design
 - AI Product Development
