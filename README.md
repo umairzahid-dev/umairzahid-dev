@@ -82,9 +82,7 @@ To me, data is more than information—it is the foundation for innovation, info
 - End-to-End AI Applications
 - Intelligent System Design
 - AI Product Development
-
 ---
-
 ## Certification
 
 ### Applied Data Science & Machine Learning Certification
