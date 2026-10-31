@@ -118,6 +118,8 @@ An AI-assisted resume screening project designed to compare candidate resumes ag
 
 
 ---
+<!-- 
+
 
 ## GitHub Statistics
 
@@ -141,7 +143,7 @@ An AI-assisted resume screening project designed to compare candidate resumes ag
     </tr>
   </table>
 </div>
-
+-->
 ---
 
 
